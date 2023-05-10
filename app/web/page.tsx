@@ -41,7 +41,7 @@ export default function Home() {
                     </div>
                     <div className="p-6 pb-8 w-full border-t-2 border-white/10 text-left text-gray-300">
                         <ul>
-                            <li className="py-2">A Dynamic Website with various functionalities according to the client's need.</li>
+                            <li className="py-2">A Dynamic Website with various functionalities according to the client&apos;s need.</li>
                             <li className="text-sm py-1"><i className="fal fa-clock text-primary/60"></i> 45 Days Delivery</li>
                             <li className="text-sm"><i className="fal fa-repeat text-primary/60"></i> 3 revisions</li>
                         </ul>
