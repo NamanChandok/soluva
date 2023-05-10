@@ -16,7 +16,7 @@ export default function Project({title, imgUrl, url, invert}: Props) {
             <a href={url} className="uppercase tracking-wider rounded-full w-max text-sm bg-primary/50 hover:bg-primary/60 transition ease-in-out p-2 px-4">View Project on Web</a>
         </div>
         <div className='w-1/2 flex justify-center'>
-            <img src={imgUrl} alt={title} className="w-[90%] h-auto" />
+            <Image src={imgUrl} alt={title} className="w-[90%] h-auto" />
         </div>
     </div>
   )

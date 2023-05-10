@@ -30,10 +30,10 @@ export default function Home() {
 
       <section id="gallery" className="p-8 relative bg-gallery-pattern bg-no-repeat bg-cover bg-top">
         <div className="flex gap-8 justify-center md:flex-row flex-col">
-          <img src="/digital_market.jpg" alt='digital marketing' className="h-80 md:w-1/5 object-cover w-full object-[60%] rounded-2xl md:-translate-y-6" />
-          <img src="/video_edit.jpg" alt='video editing' className="h-80 md:w-1/5 object-cover w-full object-[60%] rounded-2xl md:translate-y-6" />
-          <img src="/web_dev.webp" alt='web development' className="h-80 md:w-1/5 object-cover w-full object-[60%] rounded-2xl md:-translate-y-6" />
-          <img src="/mobile_app.png" alt='mobile app development' className="h-80 md:w-1/5 object-cover w-full object-[60%] rounded-2xl md:translate-y-6" />
+          <Image src="/digital_market.jpg" alt='digital marketing' className="h-80 md:w-1/5 object-cover w-full object-[60%] rounded-2xl md:-translate-y-6" />
+          <Image src="/video_edit.jpg" alt='video editing' className="h-80 md:w-1/5 object-cover w-full object-[60%] rounded-2xl md:translate-y-6" />
+          <Image src="/web_dev.webp" alt='web development' className="h-80 md:w-1/5 object-cover w-full object-[60%] rounded-2xl md:-translate-y-6" />
+          <Image src="/mobile_app.png" alt='mobile app development' className="h-80 md:w-1/5 object-cover w-full object-[60%] rounded-2xl md:translate-y-6" />
         </div>
         <h1 className="font-poppins text-4xl pt-20 pb-8 leading-snug text-center">
           We are the best choice for your <span className="text-primary/80">{text}</span>
