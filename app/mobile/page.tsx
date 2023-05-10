@@ -13,7 +13,7 @@ export default function Home() {
       <section id="hero" className="md:px-40 pt-32 p-8 text-center flex flex-col">
             <h3 className="bg-primary/20 p-2 px-4 rounded-full font-poppins tracking-widest text-xs text-primary w-max self-center shadow-lg shadow-primary/10">SERVICES</h3>
             <h1 className="font-poppins text-5xl py-4 leading-tight md:w-2/5 self-center font-semibold">Mobile App Development</h1>
-            <Image src='./mobile_app.png' alt='mobile app development' className='h-96 w-3/5 object-cover self-center py-8'/>
+            <img src='./mobile_app.png' alt='mobile app development' className='h-96 w-3/5 object-cover self-center py-8'/>
             <p className="text-gray-300 text-md md:w-3/5 self-center text-left font-poppins px-4">Mobile app development involves a range of tasks, including user interface design, programming, and testing. Skilled mobile app developers use programming languages such as Java or Swift to create apps for different platforms like iOS and Android. <br/><br/> They also have experience with user interface design and understand the importance of creating a seamless and intuitive user experience.  Developing a mobile app requires careful planning and testing to ensure that the app is bug-free, performs well, and meets the specific needs of the target audience. <br/><br/> Partnering with experienced mobile app developers can help businesses create high-quality, user-friendly mobile apps that enhance the user experience and improve engagement with their brand.</p>
         </section>
       
