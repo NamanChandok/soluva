@@ -27,19 +27,19 @@ export default function Home() {
         <section id="form" className="p-8 flex flex-col">
             <h1 className="font-poppins text-3xl py-4 leading-tight self-center font-semibold">Drop Us a Line</h1>
             <p className="text-gray-300 text-sm self-center font-poppins">Please fill out the form below.</p>     
-            <form className="flex flex-col space-y-3 w-2/5 mx-auto my-4">
+            <form className="flex flex-col space-y-3 md:w-2/5 mx-auto my-4">
                 <div className="flex-col flex space-x-0 md:flex-row md:space-x-2 space-y-3 md:space-y-0">
                     <input
                         type="text"
                         name="name"
                         placeholder="Full Name *"
-                        className="outline-none bg-slate-400/10 rounded-md w-1/2 border-b-2 border-gray-600 px-6 py-4 text-gray-500 placeholder-white/30 transition-all focus:text-white focus:border-primary/50"
+                        className="outline-none bg-slate-400/10 rounded-md md:w-1/2 border-b-2 border-gray-600 px-6 py-4 text-gray-500 placeholder-white/30 transition-all focus:text-white focus:border-primary/50"
                     />
                     <input
                         type="email"
                         name="email"
                         placeholder="Email *"
-                        className="outline-none bg-slate-400/10 rounded-md w-1/2 border-b-2 border-gray-600 px-6 py-4 text-gray-500 placeholder-white/30 transition-all focus:text-white focus:border-primary/50"
+                        className="outline-none bg-slate-400/10 rounded-md md:w-1/2 border-b-2 border-gray-600 px-6 py-4 text-gray-500 placeholder-white/30 transition-all focus:text-white focus:border-primary/50"
                     />
                 </div>
                 <input
