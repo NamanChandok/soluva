@@ -8,7 +8,7 @@ export default function Footer({}: Props) {
   return (
     <section id="footer" className="p-8 md:px-48 bg-[#181818]">
             <div className="justify-between items-center flex">
-                <Link href="/" className="font-mango text-xl flex gap-2 items-center hover:translate-x-1 transition ease-in-out"><Image src="/logo.png" alt='soluvaa' className="h-10" />SOLUVAA</Link>
+                <Link href="/" className="font-mango text-xl flex gap-2 items-center hover:translate-x-1 transition ease-in-out"><Image src="/logo.png" alt='soluva' className="h-10" />SOLUVA</Link>
                 <div className="text-gray-300 text-xl">
                     <Link href="https://instagram.com/we_atsoluva" className="hover:text-white transition ease-in-out pl-2"><i className="fab fa-instagram"></i></Link>
                     <Link href="#" className="hover:text-white transition ease-in-out pl-2"><i className="fab fa-twitter"></i></Link>
@@ -45,7 +45,7 @@ export default function Footer({}: Props) {
             </div>
             <hr className="opacity-20" />
             <div className="text-gray-400 py-2 text-sm">
-                <span>&copy; 2022 Soluvaa | All rights reserved</span>
+                <span>&copy; 2022 Soluva | All rights reserved</span>
             </div>
         </section> 
   )

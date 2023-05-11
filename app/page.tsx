@@ -24,7 +24,7 @@ export default function Home() {
       <Navbar />
 
       <section id="hero" className="md:px-40 md:pb-20 pt-32 p-8 md:w-4/5">
-        <h1 className="font-poppins text-5xl md:text-6xl pb-8 leading-snug font-medium">Choose <span className="font-mango underline decoration-primary/60">SOLUVAA</span> as your IT solution partner.</h1>
+        <h1 className="font-poppins text-5xl md:text-6xl pb-8 leading-snug font-medium">Choose <span className="font-mango underline decoration-primary/60">SOLUVA</span> as your IT solution partner.</h1>
         <Link className="px-4 p-2 bg-primary/50 hover:bg-primary/60 transition rounded-md ease-in-out hover:shadow-md hover:shadow-primary/20" href="contact.html">Get in touch</Link>
       </section>
 

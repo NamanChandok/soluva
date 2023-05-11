@@ -5,7 +5,7 @@ import Script from 'next/script';
 const poppins = Poppins({ subsets: ['latin'], weight: ['400', '500', '600'] });
 
 export const metadata = {
-  title: 'Mobile App Development | Soluvaa',
+  title: 'Mobile App Development | Soluva',
   description: 'Whether you need digital marketing, web development, video editing, IT consulting, or any other technology-related services, our team of experts is here to support you every step of the way.  ',
 }
 
