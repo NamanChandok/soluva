@@ -18,7 +18,7 @@ export default function Home() {
             <ul className="text-left self-center rounded-md border-2 border-white/10 md:w-2/5 md:px-12 p-8">
                 <span className="text-sm text-gray-300 tracking-widest">SOLUVAA OFFICE</span>
                 <h1 className="text-3xl font-poppins font-semibold pt-2 pb-8">New Delhi, India</h1>
-                <li className="flex items-center gap-3 py-2"><div className="h-10 w-10 rounded-full bg-primary/20 flex items-center justify-center text-primary"><i className="fas fa-phone"></i></div> +91 90588 13967</li>
+                <li className="flex items-center gap-3 py-2"><div className="h-10 w-10 rounded-full bg-primary/20 flex items-center justify-center text-primary"><i className="fas fa-phone"></i></div> +91 95486 90069</li>
                 <li className="flex items-center gap-3 py-2"><div className="h-10 w-10 rounded-full bg-primary/20 flex items-center justify-center text-primary"><i className="fas fa-envelope"></i></div> soluvatech@gmail.com</li>
                 <li className="flex items-center gap-3 py-2"><div className="h-10 w-10 rounded-full bg-primary/20 flex items-center justify-center text-primary"><i className="fas fa-map"></i></div> Peeragarhi Industrial Area, Paschim Vihar, New Delhi - 110087</li>
             </ul>
